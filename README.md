@@ -1,6 +1,4 @@
-### Hi there 👋
-
--  RiffCast is now available on the [App Store](https://apps.apple.com/gb/app/riffcast/id1609506139)!
+####  RiffCast is now available on the [App Store](https://apps.apple.com/gb/app/riffcast/id1609506139)!
 
 <!--
 **timdubbins/timdubbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
